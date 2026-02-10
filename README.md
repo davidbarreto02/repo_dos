@@ -1,15 +1,15 @@
 # Proyecto de uso de herramienta GIT con contribuyentes
 
-Breve descripcion 
+Breve descripción 
 
 ---
 
 ## Tabla de contenido
 
 - [Caracteristicas](#caracteristicas)
-- [Tecnologias](#tenologías)
+- [Tecnologias](#tecnologías)
 - [Requerimientos](#requerimientos)
-- [Instalación](#instación)
+- [Instalación](#instalación)
 
 ## Caracteristicas
 - Funcionalidad 1
@@ -18,8 +18,8 @@ Breve descripcion
 
 ---
 
-## Tenologías
-- Lenjuaje/ Framework principal
+## Tecnologías
+- Lenguaje/ Framework principal
 - Bases de datos
 - Librerias claves
 
@@ -27,13 +27,13 @@ Breve descripcion
 
 ## Requerimientos
 - Versión minima del lenguaje
-- Depencias necesarias
+- Dependecias necesarias
 - Software requerido
 
 ---
-## Instación
+## Instalación
 
-pasos para instlar el proyecto locamente
+pasos para instalar el proyecto locamente
 
 ```bash
 git clone https://github.com/davidbarreto02/repo_dos.git
