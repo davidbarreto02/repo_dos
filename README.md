@@ -1,6 +1,6 @@
 # Proyecto de uso de herramienta GIT con contribuyentes
 
-Breve descripción 
+linea para generar conflicto rama fabian 
 
 ---
 
