@@ -31,6 +31,7 @@ Breve descripción
 - Versión minima del lenguaje
 - Dependecias necesarias
 - Software requerido
+- Algo
 
 ---
 ## Instalación
@@ -40,3 +41,4 @@ pasos para instalar el proyecto locamente
 ```bash
 git clone https://github.com/davidbarreto02/repo_dos.git
 cd proyecto
+cd ..
