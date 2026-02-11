@@ -1,6 +1,7 @@
 # Proyecto de uso de herramienta GIT con contribuyentes
 
 Linea para generar conflico rama david 
+linea para generar conflicto rama fabian 
 
 ---
 
@@ -31,6 +32,7 @@ Linea para generar conflico rama david
 - Versión minima del lenguaje
 - Dependecias necesarias
 - Software requerido
+- Algo
 
 ---
 ## Instalación
@@ -40,3 +42,4 @@ pasos para instalar el proyecto locamente
 ```bash
 git clone https://github.com/davidbarreto02/repo_dos.git
 cd proyecto
+cd ..
