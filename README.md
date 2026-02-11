@@ -15,6 +15,7 @@ Breve descripción
 - Funcionalidad 1
 - Funcionalidad 2
 - Funcionalidad 3
+- Funcionalidad 4
 
 ---
 
@@ -22,6 +23,7 @@ Breve descripción
 - Lenguaje/ Framework principal
 - Bases de datos
 - Librerias claves
+- sql
 
 ---
 
