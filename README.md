@@ -45,3 +45,9 @@ pasos para instalar el proyecto locamente
 git clone https://github.com/davidbarreto02/repo_dos.git
 cd proyecto
 cd ..
+
+```
+---
+## Video tutorial
+
+[![Click para video](asset/imagen.png)](https://www.youtube.com/watch?v=WOCUYdKakN8)
